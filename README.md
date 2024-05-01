@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kaustubh Indulkar and I'm a Frontend Developer, from Pune</h2>
+<h2 align="left">Hi 👋! My name is Kaustubh Indulkar and I'm a Third Year Engineering Student, from Pune</h2>
 
 ###
 
