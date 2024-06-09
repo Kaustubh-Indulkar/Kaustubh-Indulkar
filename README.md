@@ -21,6 +21,16 @@
 </div>
 
 ###
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
 
 <div align="left">
  <a href="https://instagram.com/kaustubh_indulkar_?igshid=OGQ5ZDc2ODk2ZA=="><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
