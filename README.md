@@ -4,7 +4,6 @@
 
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaustubh-Indulkar&show_icons=true&locale=en&layout=compact" alt="kaustubh" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaustubh-Indulkar&show_icons=true&locale=en" alt="kaustubh" /></p>
 </div>
 
