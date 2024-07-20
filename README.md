@@ -26,7 +26,6 @@
 <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
  <a href="https://x.com/Kaustubh02603?t=_ESYtC9Apem2m8hgwz9UPQ&s=08"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
- <a href="https://salesp07.github.io" target="_blank">
   </a>    
 </div>
 
