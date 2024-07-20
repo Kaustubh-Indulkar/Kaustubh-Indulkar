@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kaustubh-Indulkar.Kaustubh-Indulkar" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kaustubh-Indulkar" />
 <h2 align="left">Fourth Year Engineering Student, from Pune</h2>
 
 ###
