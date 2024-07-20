@@ -1,7 +1,6 @@
-<h2 align="left">Fourth Year Engineering Student, from Pune</h2>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">A passionate frontend developer from India</h2>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000" align="center">
-<br>
+
 <br>
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
